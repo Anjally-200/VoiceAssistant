@@ -2,16 +2,16 @@
 
 A Python-based Voice Assistant built with **Streamlit** that allows users to interact using voice commands. The application converts speech to text, processes user requests, and responds using text-to-speech.
 
-## ✨ Features
+##  Features
 
-* 🎤 Speech-to-Text
-* 🔊 Text-to-Speech
-* 🌤️ Weather Updates
-* 📰 Latest News
-* ⏰ Reminder Management
-* 💻 Streamlit Interface
+*  Speech-to-Text
+*  Text-to-Speech
+*  Weather Updates
+*  Latest News
+*  Reminder Management
+*  Streamlit Interface
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Streamlit
@@ -19,7 +19,7 @@ A Python-based Voice Assistant built with **Streamlit** that allows users to int
 * SQLite
 * Requests
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 git clone https://github.com/Anjally-200/VoiceAssistant.git
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 👩‍💻 Author
+##  Author
 
 **Anjali**
 
